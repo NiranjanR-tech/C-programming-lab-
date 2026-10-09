@@ -1,0 +1,5 @@
+Enter Patient ID : Enter Department Code (1-Cardiology 2-Ortho 3-ENT 4-General) : 
+========= DEPARTMENT ROUTING SLIP =========
+Patient ID : 1
+Department : Cardiology
+Consultation Fee : Rs. 800.00

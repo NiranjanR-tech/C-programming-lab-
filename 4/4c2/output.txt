@@ -1,0 +1,28 @@
+
+******** COURSE REGISTRATION ********
+
+Enter Student ID : Enter Student Name : Enter Semester : Enter Maximum Credit Limit : 
+Enter Course 1 : Enter Course Credits : 
+Enter Course 2 : Enter Course Credits : 
+Enter Course 3 : Enter Course Credits : 
+Enter Course 4 : Enter Course Credits : 
+Enter Course 5 : Enter Course Credits : 
+
+Cannot register this course.
+Credit limit will exceed 20.
+
+
+******** REGISTERED COURSES ********
+
+Student ID : 101
+Student Name : Arun
+Semester : 3
+
+Registered Courses
+
+1. C                          4 Credits
+2. Mathematics                4 Credits
+3. Physics                    4 Credits
+4. Chemistry                  4 Credits
+
+Total Registered Credits : 16

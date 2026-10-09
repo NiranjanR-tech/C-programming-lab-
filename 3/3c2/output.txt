@@ -1,0 +1,21 @@
+
+========== STUDENT DASHBOARD ==========
+
+Enter Student ID : Enter Student Name : Enter Department : Enter Semester : 
+========== DASHBOARD MENU ==========
+1. Student Profile
+2. Course Details
+3. Fee Details
+4. Attendance Details
+5. Examination Details
+6. Logout
+
+Enter Your Choice : 
+
+------ STUDENT PROFILE ------
+Student ID : 101
+Student Name : Arun
+Department : AD
+Semester : 3
+
+*****************************************

@@ -1,0 +1,9 @@
+Enter Patient ID : Enter Patient Name : Enter Gender (M/F) : Enter Age : Enter Weight (kg) : Enter Room Charge per Day : Enter Number of Days Admitted : 
+========= PATIENT REGISTRATION RECORD =========
+Patient ID   : 201
+Name         : PatientB
+Gender       : M
+Age          : 45 years
+Weight       : 72.5 kg
+Days Admitted: 3
+Total Room Bill : Rs. 3600.00

@@ -1,0 +1,16 @@
+
+********** FEE MANAGEMENT MODULE **********
+
+Enter Student ID : Enter Student Name : Enter Tuition Fee : Enter Examination Fee : Enter Library Fee : Enter Laboratory Fee : Enter Paid Amount : 
+
+********** STUDENT FEE DETAILS **********
+
+Student ID     : 101
+Student Name   : Arun
+GST Rate       : 18.00%
+GST Amount     : 450.00
+Total Fee      : 57450.00
+Paid Amount    : 40000.00
+Balance Fee    : 17450.00
+
+*******************************************

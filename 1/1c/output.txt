@@ -1,0 +1,9 @@
+Enter Student ID : Enter Student Name : Enter Department : Enter Year of Study : Enter Section : Enter Email ID : Enter Mobile Number : 
+========= STUDENT REGISTRATION DETAILS =========
+Student ID   : 101
+Student Name : Arun Kumar
+Department   : AD
+Year of Study: 2
+Section      : A
+Email ID     : arun@kpriet.ac.in
+Mobile Number: 9876543210

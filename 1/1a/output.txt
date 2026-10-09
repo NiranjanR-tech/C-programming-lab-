@@ -1,0 +1,9 @@
+Enter Patient ID : Enter Patient Name : Enter Consultation Fee : Enter Test Fee : Enter Medicine Cost : 
+========= PATIENT BILL RECEIPT =========
+Patient ID       : 101
+Patient Name     : PatientA
+Consultation Fee : Rs. 500.00
+Test Fee         : Rs. 800.00
+Medicine Cost    : Rs. 300.00
+------------------------------------------
+Total Bill       : Rs. 1600.00

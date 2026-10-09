@@ -1,0 +1,18 @@
+
+******** COURSE REGISTRATION ********
+
+Enter Student ID : Enter Student Name : Enter Semester : Enter Number of Courses : Enter Course 1 : Enter Course 2 : Enter Course 3 : Enter Course 4 : 
+
+******** REGISTERED COURSES ********
+
+Student ID : 101
+Student Name : Arun
+Semester : 3
+
+Registered Courses
+1. C
+2. Mathematics
+3. Physics
+4. Chemistry
+
+****************************************

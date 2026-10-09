@@ -1,0 +1,8 @@
+
+Enter Transport Cost: Enter Hotel Cost: Enter Food Cost: Total Trip Expense : Rs. 8000.00
+
+Do you want to calculate another trip? (Y/N): 
+Enter Transport Cost: Enter Hotel Cost: Enter Food Cost: Total Trip Expense : Rs. 9300.00
+
+Do you want to calculate another trip? (Y/N): 
+Thank You for Using Smart Travel Planner.

@@ -1,0 +1,11 @@
+Enter Number of Travel Days: 
+Day 1
+Enter Transport Expense: Enter Hotel Expense: Enter Food Expense: Day 1 Expense : Rs. 4000.00
+
+Day 2
+Enter Transport Expense: Enter Hotel Expense: Enter Food Expense: Day 2 Expense : Rs. 3100.00
+
+Day 3
+Enter Transport Expense: Enter Hotel Expense: Enter Food Expense: Day 3 Expense : Rs. 3400.00
+
+Overall Trip Expense : Rs. 10500.00

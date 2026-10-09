@@ -1,0 +1,6 @@
+Enter Traveler Name : Enter Destination : Enter Number of Travel Days : Enter Transport Cost : Enter Hotel Cost per Day : Enter Food Cost per Day : 
+========= TRAVEL BUDGET ESTIMATE =========
+Traveler Name : Ananya
+Destination   : Ooty
+Number of Days: 4
+Total Estimated Travel Budget : Rs. 12600.00

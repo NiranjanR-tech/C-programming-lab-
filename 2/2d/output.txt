@@ -1,0 +1,13 @@
+Enter Traveller ID : Enter Traveller Name : Enter Gender (M/F) : Enter Destination : Enter Number of Days : Enter Transport Cost : Enter Hotel Cost per Day : Enter Food Cost per Day : Enter Total Budget : 
+========= SMART TRAVEL PLANNER =========
+Traveller ID    : 101
+Traveller Name  : Ananya
+Gender          : F
+Destination     : Ooty
+Travel Days     : 4
+Transport Cost  : 2500.00
+Hotel Cost      : 7200.00
+Food Cost       : 2800.00
+Total Trip Cost : 12500.00
+Average Expense : 3125.00
+Remaining Balance: 2500.00

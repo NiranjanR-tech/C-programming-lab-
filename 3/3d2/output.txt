@@ -1,0 +1,7 @@
+Select Mode of Transport
+1. Bus
+2. Train
+3. Flight
+Enter your choice: 
+Mode of Transport : Train
+Fare : Rs.1500

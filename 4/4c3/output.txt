@@ -1,0 +1,20 @@
+
+******** COURSE REGISTRATION ********
+
+Enter Student ID : Enter Student Name : Enter Semester : 
+Enter Course 1 : Do you want to add another course? (Y/N) : 
+Enter Course 2 : Do you want to add another course? (Y/N) : 
+Enter Course 3 : Do you want to add another course? (Y/N) : 
+
+******** REGISTERED COURSES ********
+
+Student ID : 101
+Student Name : Arun
+Semester : 3
+
+Registered Courses
+1. C
+2. Mathematics
+3. Physics
+
+Total Courses Registered : 3

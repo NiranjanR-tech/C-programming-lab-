@@ -1,0 +1,14 @@
+
+******** ATTENDANCE MANAGEMENT MODULE ********
+
+Enter Student ID : Enter Student Name : Enter Total Working Days : Enter Days Present : 
+
+******** STUDENT ATTENDANCE DETAILS ********
+
+Student ID : 101
+Student Name : Arun
+Attendance Percentage : 91.11%
+Attendance Category : Excellent Attendance
+Status : Eligible for Examination
+
+***********************************************

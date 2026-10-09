@@ -1,0 +1,46 @@
+#include <stdio.h>
+int main() {
+    int travellerID, days;
+    char name[30], gender;
+    char destination[30];
+    float hotelCostPerDay, foodCostPerDay;
+    double transportCost, budget;
+    float totalHotel, totalFood;
+    double totalCost, averageExpense, balance;
+    printf("Enter Traveller ID : ");
+    scanf("%d", &travellerID);
+    printf("Enter Traveller Name : ");
+    scanf("%s", name);
+    printf("Enter Gender (M/F) : ");
+    scanf(" %c", &gender);
+    printf("Enter Destination : ");
+    scanf("%s", destination);
+    printf("Enter Number of Days : ");
+    scanf("%d", &days);
+    printf("Enter Transport Cost : ");
+    scanf("%lf", &transportCost);
+    printf("Enter Hotel Cost per Day : ");
+    scanf("%f", &hotelCostPerDay);
+    printf("Enter Food Cost per Day : ");
+    scanf("%f", &foodCostPerDay);
+    printf("Enter Total Budget : ");
+    scanf("%lf", &budget);
+    totalHotel = hotelCostPerDay * days;
+    totalFood = foodCostPerDay * days;
+    totalCost = transportCost + totalHotel + totalFood;
+    averageExpense = totalCost / days;
+    balance = budget - totalCost;
+    printf("\n========= SMART TRAVEL PLANNER =========\n");
+    printf("Traveller ID    : %d\n", travellerID);
+    printf("Traveller Name  : %s\n", name);
+    printf("Gender          : %c\n", gender);
+    printf("Destination     : %s\n", destination);
+    printf("Travel Days     : %d\n", days);
+    printf("Transport Cost  : %.2lf\n", transportCost);
+    printf("Hotel Cost      : %.2f\n", totalHotel);
+    printf("Food Cost       : %.2f\n", totalFood);
+    printf("Total Trip Cost : %.2lf\n", totalCost);
+    printf("Average Expense : %.2lf\n", averageExpense);
+    printf("Remaining Balance: %.2lf\n", balance);
+    return 0;
+}

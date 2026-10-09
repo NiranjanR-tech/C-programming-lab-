@@ -1,0 +1,3 @@
+Enter Number of Travelers: Enter Expense of Traveler 1: Enter Expense of Traveler 2: Enter Expense of Traveler 3: Enter Expense of Traveler 4: 
+Total Travel Expense : Rs. 45000.00
+Average Expense : Rs. 11250.00

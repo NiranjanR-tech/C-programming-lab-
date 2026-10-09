@@ -1,0 +1,4 @@
+Enter Patient ID : Enter Symptom Severity Score (0-100) : 
+========= TRIAGE PRIORITY REPORT =========
+Patient ID : 1
+Priority : EMERGENCY - shift to ICU immediately

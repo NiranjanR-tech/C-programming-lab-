@@ -1,0 +1,4 @@
+Enter Number of Days to Monitor : Enter Fever Alert Threshold (C) : Enter Temperature for Day 1 (-1 if reading missing) : Day 1 Temperature : 36.5 C
+Enter Temperature for Day 2 (-1 if reading missing) : Enter Temperature for Day 3 (-1 if reading missing) : Day 3 Temperature : 37.2 C
+Enter Temperature for Day 4 (-1 if reading missing) : Day 4 Temperature : 39.5 C
+ALERT: Fever threshold exceeded on Day 4! Stopping monitoring.
